@@ -47,7 +47,18 @@ Si bien todos los gráficos por género y edad presentan pequeñas diferencias, 
 
 Una vez analizado el detalle, se hará una compración para cada delito, entre sus denuncias y sus detenciones (detención + aprehension), para conocer en comparativa: Qué tantas más denuncias está realizando la ciudadanía por encima de casos actuales de capturas; o qué tan inferior la eficacia policial es por debajo de la cantidad de denuncias.
 
-Para los últimos reportes que se tienen (del año 2022), la mayor cantidad de diferencia entre denuncias y capturas, corresponden a los robos de vehículos
+Para los últimos reportes que se tienen (del año 2022), la mayor cantidad de diferencia entre denuncias y capturas, corresponden a los robos de vehículos. Si bien los niveles de denuncias para los robos de vehículos estuvieron altos ya en el año 2011, la relación entre las detenciones no era tan alta, notándose que hay un bajo índice de investigaciones y capturas para éste tipo. 
+
+Desde el año 2005 ha existido una mejora en el aspecto de violencia intrafamiliar, la diferencias entre las denuncias de violaciones y la cantidad de personas aprehendidas sigue siendo alto, a pesar de que para los delitos de más alto calibre (como violaciones y homicidios) por lo general se mantienen bajos.
+
+Basándose solamente en lo que es violencia intrafamiliar, se nota una gran mejora desde el año 2005, ya sea por una baja en las denuncias o por una alta preocupación de abordar la violencia y controlarla policialmente.
+Pero tal como hoy en día se puede apreciar, la cantidad de denuncia de violencia hacia las mujeres sigue estando como la más alta, y es más, tuvo un fuerte aumento desde el año 2020.
+
+Conclusión:
+
+Existen un par de fechas claves que se han ido repitiendo durante todo el análsis. Puntos importantes como el 2020-2021 (inicio de cuarentena y sus restricciones, y 2021 fecha en que se empezaron a levantar dichas restricciones). Desde 2011-2012 también se observan puntos de inflexión, como aumentos en las denuncias de violencia, o bajas en la captura de delitos de robos. También una fecha importante es el 2017-2018 donde se ven fuertes cambios, como aumento en denuncias por violaciones o decaimiento en las denuncias de robo.
+
+Para este punto nos tendriamos que concentrar en una nueva investigación que revise éstos puntos en particular e indagar particularmente que reformas, leyes, campañas o acontecimientos hubo a lugar esas fechas para los cambios tanto en ciudadanía como en las policias.
 
 
 
