@@ -18,6 +18,19 @@ En ésta mecánica se trabajaron con solo algunas incidencias delictivas, tales 
 2) Detenciones: Delitos conocidos por las policias a través de un hecho flagrante.
 3) Aprehensiones: Cantidad de personas detenidas en un hecho flagrante.
 
+Método de uso / Alcance:
+
+Los cambios que se pueden aplicar están directamente relacionados con los índices de la base de dato que fueron eliminados, y se pueden revisar cambiando desde la entrada 4, en el cual no solamente existan más índices, si no que en el mismo sitio (CEAD) se pueden obtener muchos más tipos de delitos. 
+
+Segun los tipos de delitos que se saquen o se incorporen, las entradas 7, 11 y 14 pueden ser editadas en sus listas, las cuales son éstas mismas las que son incorporadas en los códigos de gráficos a plotear, por lo que el uso fuera de ellas es recomendado chequear la configuración de pandas para no pasar a llevar estadísticas.
+
+Using and scope of work:
+
+Changes can be applied directly to the indices of the database that were eliminated, and that can be changed from entry 4. Not only more indices exist, but there are a whole lot more from the CEAD webpage.
+
+Depending on the types of crimes, changes can be made to the entry 7, 11 and 14, changing the lists of the crimes, thise changes will affect directly the charts, so when using them, is recommended to check for the pandas configuration to avoid overlooking statistics.
+
+
 Resultados:
 
 Una vez ya la información se encuentra limpia y ordenada, los gráficos nos mostrarán valiosa información sobre la evolución de los actos delictuales.
@@ -61,6 +74,7 @@ Conclusión:
 Existen un par de fechas claves que se han ido repitiendo durante todo el análsis. Puntos importantes como el 2020-2021 (inicio de cuarentena y sus restricciones, y 2021 fecha en que se empezaron a levantar dichas restricciones). Desde 2011-2012 también se observan puntos de inflexión, como aumentos en las denuncias de violencia, o bajas en la captura de delitos de robos. También una fecha importante es el 2017-2018 donde se ven fuertes cambios, como aumento en denuncias por violaciones o decaimiento en las denuncias de robo.
 
 Para este punto nos tendriamos que concentrar en una nueva investigación que revise éstos puntos en particular e indagar particularmente que reformas, leyes, campañas o acontecimientos hubo a lugar esas fechas para los cambios tanto en ciudadanía como en las policias.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
